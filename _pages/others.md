@@ -36,4 +36,4 @@ redirect_from:
   I plan to pursue a Ph.D. degree in Computational Biology and Bioinformatics, or Computer Science with an emphasis on Computational Biology (probably after a Master's degree to gain more research experience). After that, I hope to work for a public-service institution (e.g., a hospital) as an independent researcher. In reflection on the obstacles in previous research experiences and the proof-based Honors Math courses I took, I enjoy the intellectual challenges in solving problems. Also, I am grateful for the help and opportunities offered by my mentors and collaborators. I would also like to share my intellectual outcomes with others and make a difference to a person, a community, or even society.
 
 
-Other questions for me? Please email me, and I will probably add them to the Q&A session. 
+Other questions for me? Please email me, and I will probably answer them and add to the Q&A session. 
