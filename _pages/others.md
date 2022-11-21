@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-### Some of my friends also make their websites, check them out:
+### Some of my friends also made their websites, check them out:
 - [Vince Ai](https://vince-ai.github.io/)
 - [Chenda Duan](https://chendaduan.com/)
 - [Jiantong Liu](https://jiantongliu.github.io/)
