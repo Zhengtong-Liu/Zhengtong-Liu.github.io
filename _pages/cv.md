@@ -45,7 +45,7 @@ Experiences and Activities
 * Participant, Bruins-In-Genomics (B.I.G.) Summer Research Program
   * Summer 2021
   * Supervisor: Jingyi Jessica Li
-  * Description: Bruins in Genomics Summer Research Program (2021) hosted by UCLA QCBio is a 8-week full-time immersion program for undergraduates interested in learning how to read and analyze genes and genomes. I learned data analysis in R, presented the method DORGE: Discovery of Oncogenes and tumoR suppressor genes using Genetic and Epigenetic features in a journal club, and reproduced the previous research results on benchmarking different methods of isoform abundance quantitative trait loci using simulated data.
+  * Description: Bruins in Genomics Summer Research Program (2021) hosted by UCLA QCBio is an 8-week full-time immersion program for undergraduates interested in learning how to read and analyze genes and genomes. I learned data analysis in R, presented the method DORGE: Discovery of Oncogenes and tumoR suppressor genes using Genetic and Epigenetic features in a journal club, and reproduced the previous research results on benchmarking different methods of isoform abundance quantitative trait loci using simulated data.
 
 
 Class Projects
