@@ -15,4 +15,4 @@ Field of Interests:
 * Interpretable Machine Learning
 * Computational Genomics
 * Statistical Genetics
-* Knowledge Graphs
+* Machine Learning for Clinical Data
