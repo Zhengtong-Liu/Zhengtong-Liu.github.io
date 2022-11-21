@@ -14,34 +14,46 @@ Education
 * Bachelor of Science, University of California, Los Angeles, 2023
   * Majors: Computer Science, Applied Mathematics
   * Cumulative GPA: 3.983 (out of 4)
-  
+
+
+Research Interests
+=====
+Machine Learning, Computational Genomics, and Machine Learning for Clinical Data.
+
+My research interests lie in the intersection of Computer Science, Statistics, and Biology. Specifically, my goal is to develop interpretable and scalable Machine Learning methods for genetics and genomics data. As I am motivated to leverage computational tools and statistical models to solve real-world biomedical problems, my fields of interest also include Machine Learning for Clinical Data and Computational Genomics. 
+
+
 Research and Intership
 ======
 * Research Assistant, Machine Learning and Genomics Lab, Deparment of Computer Science, UCLA
   * October 2021 -- Present
-  * Supervisor: Professor Sriram Sankararaman
-  * Description: I was involved in the project FastKAST, which is a fast kernel-based association testing method of non-linear genetic effects for Biobank-scale data; currently, I am developing an scalable nonparametric approach for feature contribution testing with Ph.D. student Boyang Fu.
+  * Mentor: Professor Sriram Sankararaman
+  * Description: I work on scalable and interpretable machine-learning methods for Genome-Wide Association Studies (GWAS) in this lab. I have been involved in the project FastKAST: a fast kernel-based association testing method of non-linear genetic effects for Biobank-scale data; currently, I am developing a scalable nonparametric approach for feature contribution testing with Ph.D. candidate Boyang Fu.
 
 * Member, the Junction of Statistics and Biology Lab, Department of Statistics, UCLA
   * September 2020 -- Present
-  * Supervisor: Professor Jingyi Jessica Li
-  * Description: I build, test and run the pipelines to benchmark isoform abundance quantitative trait loci (isoformQTL) and splicing QTL using GTEx reads data. I implemented Python-Clipper, a Python implementation of Clipper: p-value-free FDR control on high-throughput data from two conditions, and tried to integrate it to the MACS3 peaking calling method. I also have been attending weekly group meetings and the study group on explainable AI.
+  * Mentor: Professor Jingyi Jessica Li
+  * Description: I benchmarked the methods of isoform abundance quantitative trait loci (isoform-QTL) under the guidance of Dr. Xinzhou Ge. In this project, I have built a robust pipeline to benchmark isoform-QTL and splicing-QTL methods using the GTEx read data from specific tissues. I also implemented Clipper: p-value-free FDR control on high-throughput data from two conditions in [Python](https://github.com/JSB-UCLA/Clipper-Python). 
   
 Experiences and Activities
 ======
 * Participant, UCLA Applied and Computational Mathematics REU Program
   * Summer 2022
   * Supervisors: Andrea Bertozzi, Jeffrey Brantingham, Junyuan Lin, Rishi Sonthalia
-  * Description: I took the lead in the project Knowledge Graphs of the QAnon Twitter Network in the Computational and Applied Math REU program. We analyzed the QAnon Tweets dataset using co-occurrence graphs, topic modeling, time series analysis, and dynamic community detection. We also porposed a new topic modeling method by incorporating information from the social network. I coordinated different group members during the project, and were responsible for most results in the final paper submitted to the IEEE Big Data workshop on Knowledge Graph.
+  * Description: I led the project Knowledge Graphs of the QAnon Twitter Network in the Computational and Applied Math REU program. We analyzed the QAnon Tweets dataset using co-occurrence graphs, topic modeling, time series analysis, and dynamic community detection. We also developed KG-labeled topics, a novel method for producing labeled topics with Knowledge Graph relations. I coordinated with different group members during the project, and were responsible for a significant part of results in the final paper submitted to the IEEE Big Data workshop on Knowledge Graph.
   
 * Participant, Bruins-In-Genomics (B.I.G.) Summer Research Program
   * Summer 2021
   * Supervisor: Jingyi Jessica Li
-  * Description: Bruins in Genomics Summer Research Program (2021) hosted by UCLA QCBio: 8-week full-time immersion program for undergraduates interested in learning how to read and analyze genes and genomes. I learned data analysis in R, presented the method DORGE: Discovery of Oncogenes and tumoR suppressor genes using Genetic and Epigenetic features in a journal club, and reproduced the previous research results on benchmarking different methods of isoform abundance quantitative trait loci using simulated data.
+  * Description: Bruins in Genomics Summer Research Program (2021) hosted by UCLA QCBio is a 8-week full-time immersion program for undergraduates interested in learning how to read and analyze genes and genomes. I learned data analysis in R, presented the method DORGE: Discovery of Oncogenes and tumoR suppressor genes using Genetic and Epigenetic features in a journal club, and reproduced the previous research results on benchmarking different methods of isoform abundance quantitative trait loci using simulated data.
 
 
 Class Projects
 ======
+* [Kernel-based Biological Annotated Neuron Networks](https://github.com/Zhengtong-Liu/CS-M226-Project)
+  * Interpretable Machine Learning
+  * Sept. 2022 - Present
+
 * [Text Generation based on GPT-2](https://github.com/Dadaism6/UCLA-CS130-Googolplex)
   * Software Engineering
   * April 2022 -- June 2022
@@ -61,9 +73,9 @@ Class Projects
 
 Honors and Awards
 ======
-* Departmental Honors in Applied Mathematics, UCLA (candidate)
+* Departmental Honors in Applied Mathematics, UCLA (Candidate)
   * At Graduation
-* Latin Honors (Summa Cum Laude) in the School of Engineering and Applied Science, UCLA
+* Latin Honors (Summa Cum Laude) in the School of Engineering and Applied Science, UCLA (Candidate)
   * At Graduation
 * Dean's Honors List
   * Fall 2019 -- Present

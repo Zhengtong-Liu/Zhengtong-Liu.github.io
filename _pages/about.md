@@ -13,6 +13,6 @@ I am Zhengtong "Eric" Liu, a senior undergraduate student with double majors in 
 Field of Interests:
 ------
 * Interpretable Machine Learning
-* Computational Genetics
-* Biomedical Imaging
+* Computational Genomics
+* Statistical Genetics
 * Knowledge Graphs
