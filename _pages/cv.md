@@ -16,13 +16,6 @@ Education
   * Cumulative GPA: 3.983 (out of 4)
 
 
-Research Interests
-=====
-Machine Learning, Computational Genomics, and Machine Learning for Clinical Data.
-
-My research interests lie in the intersection of Computer Science, Statistics, and Biology. Specifically, my goal is to develop interpretable and scalable Machine Learning methods for genetics and genomics data. As I am motivated to leverage computational tools and statistical models to solve real-world biomedical problems, my fields of interest also include Machine Learning for Clinical Data and Computational Genomics. 
-
-
 Research and Intership
 ======
 * Research Assistant, Machine Learning and Genomics Lab, Deparment of Computer Science, UCLA
