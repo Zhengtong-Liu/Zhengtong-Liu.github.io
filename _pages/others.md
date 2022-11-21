@@ -20,7 +20,6 @@ redirect_from:
 
 
 ### Q&A
-======
 * What are your hobbies?
 
   I enjoy reading books, especially those on history and politics in my free time. Several interesting history books I recommend are *Diplomacy* by Henry Kissinger, *Homo Deus: A Brief History of Tomorrow* by Yuval Noah Harari, *1587, a Year of No Significance: The Ming Dynasty in Decline* by Ray Huang. I also have developed an interest in Japanese Anime since my sophomore year. My favorite anime television series are *Sound! Euphonium* and *K-On!* produced by Kyoto Animation, and my favorite animated film is *Summer Wars* directed by Mamoru Hosoda. 
