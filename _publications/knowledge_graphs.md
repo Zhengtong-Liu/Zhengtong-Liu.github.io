@@ -1,5 +1,5 @@
 ---
 title: "Knowledge Graphs of the QAnon Twitter Network"
-collection: publications
+collection: preprints
 ---
 This paper has just been accepted.
