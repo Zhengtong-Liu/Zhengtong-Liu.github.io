@@ -12,7 +12,7 @@ redirect_from:
 
 
 ### Some of my friends also made their websites, check them out:
-- [Vince Ai](https://vince-ai.github.io/)
+- [Vince Ai](https://wensi-ai.github.io/)
 - [Chenda Duan](https://chendaduan.com/)
 - [Jiantong Liu](https://jiantongliu.github.io/)
 - [Tristan Que](https://tristan816la.github.io/)
