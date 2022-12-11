@@ -43,7 +43,7 @@ Experiences and Activities
 
 Class Projects
 ======
-* [Kernel-based Biological Annotated Neural Networks](https://github.com/Zhengtong-Liu/CS-M226-Project)
+* [Non-linear Genetic Effects for Complex Traits](https://github.com/Zhengtong-Liu/CS-M226-Project)
   * Interpretable Machine Learning
   * Sept. 2022 - Present
 
