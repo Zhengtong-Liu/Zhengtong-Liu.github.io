@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Science, University of California, Los Angeles, 2023
   * Majors: Computer Science, Applied Mathematics
-  * Cumulative GPA: 3.983 (out of 4)
+  * Cumulative GPA: 3.984 (out of 4)
 
 
 Research and Intership
@@ -21,7 +21,7 @@ Research and Intership
 * Research Assistant, Machine Learning and Genomics Lab, Deparment of Computer Science, UCLA
   * October 2021 -- Present
   * Mentor: Professor Sriram Sankararaman
-  * Description: I work on scalable and interpretable machine-learning methods for Genome-Wide Association Studies (GWAS) in this lab. I have been involved in the project FastKAST: a fast kernel-based association testing method of non-linear genetic effects for Biobank-scale data; currently, I am developing a scalable nonparametric approach for feature contribution testing with Ph.D. candidate Boyang Fu.
+  * Description: I work on scalable and interpretable machine-learning methods for Genome-Wide Association Studies (GWAS) in this lab. I have been involved in the project FastKAST: a fast kernel-based association testing method of non-linear genetic effects for Biobank-scale data; currently, I am developing a set-based association test for GxE interactions with Ph.D. candidate Boyang Fu.
 
 * Member, the Junction of Statistics and Biology Lab, Department of Statistics, UCLA
   * September 2020 -- Present
