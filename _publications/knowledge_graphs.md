@@ -2,4 +2,4 @@
 title: "Knowledge Graphs of the QAnon Twitter Network"
 collection: preprints
 ---
-This paper has just been [accepted](https://gta3.hrl.com/).
+This work is published in 2022 IEEE International Conference on Big Data (Big Data): 10.1109/BigData55660.2022.10021128.
